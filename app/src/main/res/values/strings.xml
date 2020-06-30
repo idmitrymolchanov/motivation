@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="note_text">Enter text here</string>
+    <string name="note_details_title">New Activity</string>
+    <string name="second_title">Activity</string>
+    <string name="save">Save</string>
+    <string name="completed">Complete</string>
+</resources>
