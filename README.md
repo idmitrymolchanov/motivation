@@ -1,2 +1,0 @@
-# motivation
-first android app
